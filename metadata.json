@@ -1,0 +1,6 @@
+{
+  "name": "Guardian SOS",
+  "description": "High-reliability women's safety app with encrypted geolocation tracking, low-latency parent SOS broadcasts, and automated 2-minute escalations to police dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
